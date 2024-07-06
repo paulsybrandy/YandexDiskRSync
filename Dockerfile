@@ -1,4 +1,4 @@
-FROM python:3.7.8-slim-stretch
+FROM python:3.13.0b2-slim
 
 WORKDIR /uploader/
 COPY requirements.txt requirements.txt
