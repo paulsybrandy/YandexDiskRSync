@@ -1,4 +1,4 @@
-requests==2.25.1
+requests==2.32.4
 PyYAML==6.0
 python-dateutil==2.8.2
 progressbar==2.5
